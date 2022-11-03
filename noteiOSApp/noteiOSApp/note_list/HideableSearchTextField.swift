@@ -44,7 +44,7 @@ struct HideableSearchTextField_Previews: PreviewProvider {
             onSearchToggled: {},
             destinationProvider: { EmptyView() },
             isSearchAcitve: true,
-            searchText: .constant("Youtube")
+            searchText: .constant("Hello World!")
         )
     }
 }
